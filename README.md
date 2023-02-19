@@ -9,4 +9,8 @@ To use this script, you have to do some prepare.
 2. set command or pipe file to absolute path if need.
 3. enjoy
 
+When you adb connect the same phone from multi devices, and gnirehtet dissconnect at that time.
+You will get the error like `more than one device and emulator`.
 
+In the case I write a reset script to kill adb server.
+After ran the script it will become normal.
