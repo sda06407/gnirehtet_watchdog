@@ -6,7 +6,7 @@ Auto restart [gnirehtet](https://github.com/Genymobile/gnirehtet) agent when it 
 To use this script, you have to do some prepare.
 
 1. use `mkfifo mypipe` to create pipe file
-2. set command to absolute path if need.
+2. set command or pipe file to absolute path if need.
 3. enjoy
 
 
